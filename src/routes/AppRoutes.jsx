@@ -1,11 +1,10 @@
 import { Routes, Route } from "react-router-dom";
-
-import Home from "../Pages/Home";
-import Contact from "../Pages/Contact";
-import Team from "../Pages/Team";
-import Services from "../Pages/Services";
-import Policy from "../Pages/Policy";
-import TermsAndConditions from "../Pages/TermsAndConditions";
+import Home from "../pages/Home";
+import Contact from "../pages/Contact";
+import Team from "../pages/Team";
+import Services from "../pages/Services";
+import Policy from "../pages/Policy";
+import TermsAndConditions from "../pages/TermsAndConditions";
 const AppRoutes = () => {
   return (
     <Routes>
