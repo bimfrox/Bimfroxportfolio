@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { NavLink } from "react-router-dom";
 import ThemeToggle from "./ThemeToggle";
-import logo from "../../assets/images/logo.png";
+import logo from "/src/assets/images/Logo.png";
 
 const links = [
   { name: "Home", path: "/" },
