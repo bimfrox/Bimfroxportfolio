@@ -24,7 +24,7 @@ const teamMembers = [
   },
    {
     name: "Harshita ",
-    role: "Senior Developer",
+    role: "Full Stack Developer",
     experience: "1.5+ Years Experience",
     image: dev2,
     department: "Developer",
@@ -32,7 +32,7 @@ const teamMembers = [
    {
     name: "Ritesh ",
     role: "MERN Stack Developer",
-    experience: "1 Month Experience",
+    experience: "1 Year Experience",
     image: dev6,
     department: "Developer",
   },
